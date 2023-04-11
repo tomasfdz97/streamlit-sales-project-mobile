@@ -15,3 +15,5 @@ Este repositorio cuenta con:
 4. requirements.txt donde se encuentra las versiones necesarías para poder desplegar la web.
 
 5. supermarket_sales.slsx de donde salen los datos.
+
+URL https://streamlit-sales-dashboard-test-mobile.onrender.com/  
